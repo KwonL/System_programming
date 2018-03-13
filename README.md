@@ -3,7 +3,7 @@
 
 my lab
 
-Thanks for instructors : prof - Jangwoo Kim
+instructors : prof - Jangwoo Kim; 
                          TA - Eunjin Baek, Suheon Bae
              
 each folder has handout and my source code
